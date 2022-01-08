@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anjali.kumar06@gmail.com
+	name = Anjali Kumar
